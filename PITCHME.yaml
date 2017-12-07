@@ -1,2 +1,3 @@
 footnote : "Son Luong Ngoc 2017-2018"
-theme-override : unboxed.css
+vertical-center : false
+theme : moon
