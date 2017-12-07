@@ -13,9 +13,9 @@
 ## Blah 123
 
 - Point 1
-- Point 2
-- Point 3
-- Point 4
+- Point 2 |
+- Point 3 |
+- Point 4 |
 
 +++
 @title[Point 1]
