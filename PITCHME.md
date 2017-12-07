@@ -12,7 +12,7 @@
 @title[Blah 123]
 ## Blah 123
 
-- Point 1
+- Point 1 |
 - Point 2 |
 - Point 3 |
 - Point 4 |
